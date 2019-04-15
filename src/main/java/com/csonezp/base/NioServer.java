@@ -1,6 +1,6 @@
 // Copyright (C) 2019 Meituan
 // All rights reserved
-package com.csonezp.single;
+package com.csonezp.base;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
@@ -16,7 +16,7 @@ import java.util.Set;
  * @author zhangpeng34
  * Created on 2019/4/15 下午3:03
  **/
-public class BaseNioServer {
+public class NioServer {
     private static final int PORT = 8081;
 
     public static void main(String[] args) throws IOException {

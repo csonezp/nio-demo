@@ -1,0 +1,14 @@
+/target/
+mvnw
+mvnw.cmd
+
+.idea
+.mvn
+*.iws
+*.iml
+*.ipr
+*.zip
+
+*.index
+*.threads
+*.hprof# Created by .ignore support plugin (hsz.mobi)
